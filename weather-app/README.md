@@ -8,25 +8,24 @@
 This project is a simple and minimalistic Weather Application using OpenWeatherMap API
 	
 ## Technologies
-Project is created with:
+Project is created using:
 * HTML
 * CSS
 * jQuery
 * React
-
 	
 ## Setup
-First clone this repository.
+Clone the repository.
 ```
 $ git clone https://github.com/coder-246try/React-Weather-App.git
 ```
 
-Install dependencies. Make sure you already have nodejs & npm installed in your system.
+Install dependencies. Make sure you already have nodejs and npm installed in your system.
 ```
 $ npm install
 ```
 
-Run it
+Run the project
 ```
 $ npm start
 ```
