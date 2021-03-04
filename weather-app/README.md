@@ -17,16 +17,24 @@ Project is created with:
 	
 ## Setup
 First clone this repository.
-```$ git clone https://github.com/coder-246try/React-Weather-App.git ```
+```
+$ git clone https://github.com/coder-246try/React-Weather-App.git
+```
 
 Install dependencies. Make sure you already have nodejs & npm installed in your system.
-```$ npm install ```
+```
+$ npm install
+```
 
 Run it
-```$ npm start ```
+```
+$ npm start
+```
 
 ## Screenshot of the app
 
-[ToDo-List App](images/screenshot.png)
+[weather-app](images/Screenshot (497).png)
+
+
 
 
