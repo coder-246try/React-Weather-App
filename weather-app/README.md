@@ -33,7 +33,7 @@ $ npm start
 
 ## Screenshot of the app
 
-[weather-app](images/Screenshot (497).png)
+[React-Weather-App](images/Screenshot (497).png)
 
 
 
